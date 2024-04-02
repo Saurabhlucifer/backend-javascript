@@ -7,3 +7,4 @@ constructor(statusCode, data, message = "Success"){
 }
 
 }
+export {ApiResponse}
